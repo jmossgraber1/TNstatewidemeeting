@@ -1,3 +1,6 @@
 h1.event-name {
     visibility: collapse !important;
 }
+bt-start-end-date.event-start-end-date{
+    visibility: collapse !important;
+}
