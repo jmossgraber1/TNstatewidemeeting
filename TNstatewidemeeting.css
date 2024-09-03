@@ -1,6 +1,13 @@
 h1.event-name {
     visibility: collapse !important;
 }
-bt-start-end-date.event-start-end-date {
+.start-date.showIcon.ng-star-inserted {
     visibility: collapse !important;
 }
+
+.date-separator.ng-star-inserted {
+    visibility: collapse !important;
+}
+
+.end-date.showIcon.ng-star-inserted {
+    visibility: collapse !important;
